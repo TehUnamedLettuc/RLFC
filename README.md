@@ -20,12 +20,20 @@
 **Overview of FunRL pipeline** The RL training process adopt a single criteria reward and
 use the FunRL which integrates the uncertainty of CoT to better explore the reasoning process.
 
-<p align="center">
-<img src="./img/think.png" width="100%" alt="thinking_template" />
-</p>
+<table align="center" width="100%">
+  <tr>
+    <!-- 第一张图 -->
+    <td align="center" width="50%">
+        <img src="./img/per.png" width="100%" alt="thinking_image2" /> 
+    </td>
+    <!-- 第二张图 -->
+    <td align="center" width="50%">
+      <img src="./img/think.png" width="100%" alt="thinking_image1" />
+    </td>
+  </tr>
+</table>
 
 **Thinking Pattern.** Our recipe effectively explores better thought processes in function call scenarios by leveraging entropy in the chain of thought and provides a more formal parameter extraction, verifies in the chain of thought.
-
 
 <p align="center">
 <img src="./img/lr.png" width="100%" alt="thinking_template" />
