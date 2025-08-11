@@ -1,5 +1,8 @@
 # Exploring Superior Function Calls via Reinforcement Learning
 
+[![Arxiv](https://img.shields.io/badge/paper-A82F27?style=for-the-badge&logo=arxiv)](https://www.arxiv.org/pdf/2508.05118)
+</div>
+
 **Our model achieves state-of-the-art performance among open-source models and second place among all models.**
 
 **This work is a part of the Open Source projrct [Aworld, InclusionAI](https://github.com/inclusionAI/AWorld/).**
